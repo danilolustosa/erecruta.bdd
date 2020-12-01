@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.042028985507246375" branch-rate="0.07" lines-covered="29" lines-valid="690" branches-covered="7" branches-valid="100" complexity="213" version="0" timestamp="1606818475">
+  <sources>
+    <source>C:\Users\User\</source>
+  </sources>
+  <packages>
+    <package name="Erecruta" line-rate="0" branch-rate="0" complexity="196">
+      <classes>
+        <class name="Erecruta.Commons.RelativeTimeExtensions" filename="C:\Users\User\source\repos\Erecruta\Commons\RelativeTimeExtensions.cs" line-rate="0" branch-rate="0" complexity="22">
+          <methods>
+            <method name="RelativeTime" signature="(...)" line-rate="0" branch-rate="0" complexity="22">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="19" hits="0" branch="true" condition-coverage="0% (0/4)" />
+                <line number="20" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="21" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="22" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="24" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="25" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="26" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="36" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="19" hits="0" branch="true" condition-coverage="0% (0/4)" />
+            <line number="20" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="21" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="22" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="24" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="25" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="26" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="36" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Configuration.DependencyInjectionConfiguration" filename="C:\Users\User\source\repos\Erecruta\Configuration\DependencyInjectionConfiguration.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="ConfigurarDependencias" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Configuration.SwaggerConfiguration" filename="C:\Users\User\source\repos\Erecruta\Configuration\SwaggerConfiguration.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="ConfigurarSwagger" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="UtilizarConfiguracaoSwagger" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Controllers.CandidatoController" filename="C:\Users\User\source\repos\Erecruta\Controllers\CandidatoController.cs" line-rate="0" branch-rate="1" complexity="5">
+          <methods>
+            <method name="Incluir" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Alterar" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="36" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Listar" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="50" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Obter" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="64" hits="0" branch="false" />
+                <line number="66" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="70" hits="0" branch="false" />
+                <line number="71" hits="0" branch="false" />
+                <line number="72" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="64" hits="0" branch="false" />
+            <line number="66" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="70" hits="0" branch="false" />
+            <line number="71" hits="0" branch="false" />
+            <line number="72" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Controllers.IBGEController" filename="C:\Users\User\source\repos\Erecruta\Controllers\IBGEController.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="ListarEstado" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ListarCidade" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="34" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Controllers.OportunidadeController" filename="C:\Users\User\source\repos\Erecruta\Controllers\OportunidadeController.cs" line-rate="0" branch-rate="1" complexity="5">
+          <methods>
+            <method name="Incluir" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Alterar" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="36" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Listar" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Obter" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="65" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="69" hits="0" branch="false" />
+                <line number="72" hits="0" branch="false" />
+                <line number="73" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+                <line number="76" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="65" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="69" hits="0" branch="false" />
+            <line number="72" hits="0" branch="false" />
+            <line number="73" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+            <line number="76" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.Candidato" filename="C:\Users\User\source\repos\Erecruta\Domain\Candidato.cs" line-rate="0" branch-rate="1" complexity="15">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Nome" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Email" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Celular" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_LinkedIn" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Curriculo" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Classificacao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_EstadoId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_CidadeId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Observacao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Situacao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_OportunidadeId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Regiao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Estado" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Cidade" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.Cidade" filename="C:\Users\User\source\repos\Erecruta\Domain\Cidade.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_nome" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_microrregiao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.Estado" filename="C:\Users\User\source\repos\Erecruta\Domain\Estado.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_sigla" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_nome" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_regiao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.Mesorregiao" filename="C:\Users\User\source\repos\Erecruta\Domain\Cidade.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_nome" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_UF" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="26" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.Microrregiao" filename="C:\Users\User\source\repos\Erecruta\Domain\Cidade.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_nome" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_mesorregiao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.Nivel" filename="C:\Users\User\source\repos\Erecruta\Domain\Nivel.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Descricao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.Oportunidade" filename="C:\Users\User\source\repos\Erecruta\Domain\Oportunidade.cs" line-rate="0" branch-rate="1" complexity="16">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Titulo" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Empresa" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_DataHoraCriacao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_EstadoId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_CidadeId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Regiao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Remuneracao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Regime" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Posicao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_JobDescription" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Situacao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Niveis" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Duracao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Estado" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Cidade" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.OportunidadeNivel" filename="C:\Users\User\source\repos\Erecruta\Domain\OportunidadeNivel.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_NivelId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_OportunidadeId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.Regiao" filename="C:\Users\User\source\repos\Erecruta\Domain\Cidade.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="39" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_sigla" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_nome" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="41" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Domain.UF" filename="C:\Users\User\source\repos\Erecruta\Domain\Cidade.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="31" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_sigla" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_nome" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_regiao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="34" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Model.BaseResponse" filename="C:\Users\User\source\repos\Erecruta\Model\BaseResponse.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_StatusCode" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Mensagem" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Model.CandidatoResponse" filename="C:\Users\User\source\repos\Erecruta\Model\CandidatoResponse.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Candidato" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Model.ListaCandidatoResponse" filename="C:\Users\User\source\repos\Erecruta\Model\ListaCandidatoResponse.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Candidatos" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Model.ListaOportunidadeResponse" filename="C:\Users\User\source\repos\Erecruta\Model\ListaOportunidadeResponse.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Oportunidades" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Model.ListResponse" filename="C:\Users\User\source\repos\Erecruta\Model\ListResponse.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Erros" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Model.OportunidadeResponse" filename="C:\Users\User\source\repos\Erecruta\Model\OportunidadeResponse.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Oportunidade" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Program" filename="C:\Users\User\source\repos\Erecruta\Program.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="CreateHostBuilder" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Repository.BaseRepository" filename="C:\Users\User\source\repos\Erecruta\Repository\BaseRepository.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Repository.CandidatoRepository" filename="C:\Users\User\source\repos\Erecruta\Repository\CandidatoRepository.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="Incluir" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Alterar" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+                <line number="63" hits="0" branch="false" />
+                <line number="64" hits="0" branch="false" />
+                <line number="65" hits="0" branch="false" />
+                <line number="66" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="69" hits="0" branch="false" />
+                <line number="71" hits="0" branch="false" />
+                <line number="72" hits="0" branch="false" />
+                <line number="73" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Listar" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="78" hits="0" branch="false" />
+                <line number="79" hits="0" branch="false" />
+                <line number="80" hits="0" branch="false" />
+                <line number="81" hits="0" branch="false" />
+                <line number="82" hits="0" branch="false" />
+                <line number="83" hits="0" branch="false" />
+                <line number="84" hits="0" branch="false" />
+                <line number="85" hits="0" branch="false" />
+                <line number="86" hits="0" branch="false" />
+                <line number="87" hits="0" branch="false" />
+                <line number="88" hits="0" branch="false" />
+                <line number="89" hits="0" branch="false" />
+                <line number="90" hits="0" branch="false" />
+                <line number="91" hits="0" branch="false" />
+                <line number="92" hits="0" branch="false" />
+                <line number="93" hits="0" branch="false" />
+                <line number="94" hits="0" branch="false" />
+                <line number="95" hits="0" branch="false" />
+                <line number="96" hits="0" branch="false" />
+                <line number="98" hits="0" branch="false" />
+                <line number="99" hits="0" branch="false" />
+                <line number="100" hits="0" branch="false" />
+                <line number="101" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Obter" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="104" hits="0" branch="false" />
+                <line number="105" hits="0" branch="false" />
+                <line number="106" hits="0" branch="false" />
+                <line number="107" hits="0" branch="false" />
+                <line number="108" hits="0" branch="false" />
+                <line number="109" hits="0" branch="false" />
+                <line number="110" hits="0" branch="false" />
+                <line number="111" hits="0" branch="false" />
+                <line number="112" hits="0" branch="false" />
+                <line number="113" hits="0" branch="false" />
+                <line number="114" hits="0" branch="false" />
+                <line number="115" hits="0" branch="false" />
+                <line number="116" hits="0" branch="false" />
+                <line number="117" hits="0" branch="false" />
+                <line number="118" hits="0" branch="false" />
+                <line number="119" hits="0" branch="false" />
+                <line number="120" hits="0" branch="false" />
+                <line number="121" hits="0" branch="false" />
+                <line number="122" hits="0" branch="false" />
+                <line number="124" hits="0" branch="false" />
+                <line number="125" hits="0" branch="false" />
+                <line number="126" hits="0" branch="false" />
+                <line number="127" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="63" hits="0" branch="false" />
+            <line number="64" hits="0" branch="false" />
+            <line number="65" hits="0" branch="false" />
+            <line number="66" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="69" hits="0" branch="false" />
+            <line number="71" hits="0" branch="false" />
+            <line number="72" hits="0" branch="false" />
+            <line number="73" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+            <line number="78" hits="0" branch="false" />
+            <line number="79" hits="0" branch="false" />
+            <line number="80" hits="0" branch="false" />
+            <line number="81" hits="0" branch="false" />
+            <line number="82" hits="0" branch="false" />
+            <line number="83" hits="0" branch="false" />
+            <line number="84" hits="0" branch="false" />
+            <line number="85" hits="0" branch="false" />
+            <line number="86" hits="0" branch="false" />
+            <line number="87" hits="0" branch="false" />
+            <line number="88" hits="0" branch="false" />
+            <line number="89" hits="0" branch="false" />
+            <line number="90" hits="0" branch="false" />
+            <line number="91" hits="0" branch="false" />
+            <line number="92" hits="0" branch="false" />
+            <line number="93" hits="0" branch="false" />
+            <line number="94" hits="0" branch="false" />
+            <line number="95" hits="0" branch="false" />
+            <line number="96" hits="0" branch="false" />
+            <line number="98" hits="0" branch="false" />
+            <line number="99" hits="0" branch="false" />
+            <line number="100" hits="0" branch="false" />
+            <line number="101" hits="0" branch="false" />
+            <line number="104" hits="0" branch="false" />
+            <line number="105" hits="0" branch="false" />
+            <line number="106" hits="0" branch="false" />
+            <line number="107" hits="0" branch="false" />
+            <line number="108" hits="0" branch="false" />
+            <line number="109" hits="0" branch="false" />
+            <line number="110" hits="0" branch="false" />
+            <line number="111" hits="0" branch="false" />
+            <line number="112" hits="0" branch="false" />
+            <line number="113" hits="0" branch="false" />
+            <line number="114" hits="0" branch="false" />
+            <line number="115" hits="0" branch="false" />
+            <line number="116" hits="0" branch="false" />
+            <line number="117" hits="0" branch="false" />
+            <line number="118" hits="0" branch="false" />
+            <line number="119" hits="0" branch="false" />
+            <line number="120" hits="0" branch="false" />
+            <line number="121" hits="0" branch="false" />
+            <line number="122" hits="0" branch="false" />
+            <line number="124" hits="0" branch="false" />
+            <line number="125" hits="0" branch="false" />
+            <line number="126" hits="0" branch="false" />
+            <line number="127" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Repository.IBGERepository" filename="C:\Users\User\source\repos\Erecruta\Repository\IBGERepository.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="ListarEstado" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ListarCidade" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ObterEstado" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ObterCidade" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Repository.NivelRepository" filename="C:\Users\User\source\repos\Erecruta\Repository\NivelRepository.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="ListarByOportunidade" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Repository.OportunidadeNivelRepository" filename="C:\Users\User\source\repos\Erecruta\Repository\OportunidadeNivelRepository.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Incluir" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="DeletarByOportunidade" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Repository.OportunidadeRepository" filename="C:\Users\User\source\repos\Erecruta\Repository\OportunidadeRepository.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="Incluir" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Alterar" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="50" hits="0" branch="false" />
+                <line number="51" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+                <line number="63" hits="0" branch="false" />
+                <line number="64" hits="0" branch="false" />
+                <line number="65" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="69" hits="0" branch="false" />
+                <line number="70" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Listar" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="73" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+                <line number="75" hits="0" branch="false" />
+                <line number="76" hits="0" branch="false" />
+                <line number="77" hits="0" branch="false" />
+                <line number="78" hits="0" branch="false" />
+                <line number="79" hits="0" branch="false" />
+                <line number="80" hits="0" branch="false" />
+                <line number="81" hits="0" branch="false" />
+                <line number="82" hits="0" branch="false" />
+                <line number="83" hits="0" branch="false" />
+                <line number="84" hits="0" branch="false" />
+                <line number="85" hits="0" branch="false" />
+                <line number="86" hits="0" branch="false" />
+                <line number="87" hits="0" branch="false" />
+                <line number="88" hits="0" branch="false" />
+                <line number="89" hits="0" branch="false" />
+                <line number="90" hits="0" branch="false" />
+                <line number="92" hits="0" branch="false" />
+                <line number="93" hits="0" branch="false" />
+                <line number="94" hits="0" branch="false" />
+                <line number="95" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Obter" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="98" hits="0" branch="false" />
+                <line number="99" hits="0" branch="false" />
+                <line number="100" hits="0" branch="false" />
+                <line number="101" hits="0" branch="false" />
+                <line number="102" hits="0" branch="false" />
+                <line number="103" hits="0" branch="false" />
+                <line number="104" hits="0" branch="false" />
+                <line number="105" hits="0" branch="false" />
+                <line number="106" hits="0" branch="false" />
+                <line number="107" hits="0" branch="false" />
+                <line number="108" hits="0" branch="false" />
+                <line number="109" hits="0" branch="false" />
+                <line number="110" hits="0" branch="false" />
+                <line number="111" hits="0" branch="false" />
+                <line number="112" hits="0" branch="false" />
+                <line number="113" hits="0" branch="false" />
+                <line number="114" hits="0" branch="false" />
+                <line number="115" hits="0" branch="false" />
+                <line number="117" hits="0" branch="false" />
+                <line number="118" hits="0" branch="false" />
+                <line number="119" hits="0" branch="false" />
+                <line number="120" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="63" hits="0" branch="false" />
+            <line number="64" hits="0" branch="false" />
+            <line number="65" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="69" hits="0" branch="false" />
+            <line number="70" hits="0" branch="false" />
+            <line number="73" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+            <line number="75" hits="0" branch="false" />
+            <line number="76" hits="0" branch="false" />
+            <line number="77" hits="0" branch="false" />
+            <line number="78" hits="0" branch="false" />
+            <line number="79" hits="0" branch="false" />
+            <line number="80" hits="0" branch="false" />
+            <line number="81" hits="0" branch="false" />
+            <line number="82" hits="0" branch="false" />
+            <line number="83" hits="0" branch="false" />
+            <line number="84" hits="0" branch="false" />
+            <line number="85" hits="0" branch="false" />
+            <line number="86" hits="0" branch="false" />
+            <line number="87" hits="0" branch="false" />
+            <line number="88" hits="0" branch="false" />
+            <line number="89" hits="0" branch="false" />
+            <line number="90" hits="0" branch="false" />
+            <line number="92" hits="0" branch="false" />
+            <line number="93" hits="0" branch="false" />
+            <line number="94" hits="0" branch="false" />
+            <line number="95" hits="0" branch="false" />
+            <line number="98" hits="0" branch="false" />
+            <line number="99" hits="0" branch="false" />
+            <line number="100" hits="0" branch="false" />
+            <line number="101" hits="0" branch="false" />
+            <line number="102" hits="0" branch="false" />
+            <line number="103" hits="0" branch="false" />
+            <line number="104" hits="0" branch="false" />
+            <line number="105" hits="0" branch="false" />
+            <line number="106" hits="0" branch="false" />
+            <line number="107" hits="0" branch="false" />
+            <line number="108" hits="0" branch="false" />
+            <line number="109" hits="0" branch="false" />
+            <line number="110" hits="0" branch="false" />
+            <line number="111" hits="0" branch="false" />
+            <line number="112" hits="0" branch="false" />
+            <line number="113" hits="0" branch="false" />
+            <line number="114" hits="0" branch="false" />
+            <line number="115" hits="0" branch="false" />
+            <line number="117" hits="0" branch="false" />
+            <line number="118" hits="0" branch="false" />
+            <line number="119" hits="0" branch="false" />
+            <line number="120" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Service.CandidatoService" filename="C:\Users\User\source\repos\Erecruta\Service\CandidatoService.cs" line-rate="0" branch-rate="0" complexity="31">
+          <methods>
+            <method name="Incluir" signature="(...)" line-rate="0" branch-rate="0" complexity="14">
+              <lines>
+                <line number="26" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="30" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="31" hits="0" branch="false" />
+                <line number="33" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="34" hits="0" branch="false" />
+                <line number="36" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="37" hits="0" branch="false" />
+                <line number="39" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="40" hits="0" branch="false" />
+                <line number="42" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="43" hits="0" branch="false" />
+                <line number="45" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="46" hits="0" branch="false" />
+                <line number="48" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+                <line number="51" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Alterar" signature="(...)" line-rate="0" branch-rate="0" complexity="12">
+              <lines>
+                <line number="63" hits="0" branch="false" />
+                <line number="64" hits="0" branch="false" />
+                <line number="66" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="67" hits="0" branch="false" />
+                <line number="69" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="70" hits="0" branch="false" />
+                <line number="72" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="73" hits="0" branch="false" />
+                <line number="75" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="76" hits="0" branch="false" />
+                <line number="78" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="79" hits="0" branch="false" />
+                <line number="81" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="82" hits="0" branch="false" />
+                <line number="83" hits="0" branch="false" />
+                <line number="84" hits="0" branch="false" />
+                <line number="85" hits="0" branch="false" />
+                <line number="86" hits="0" branch="false" />
+                <line number="87" hits="0" branch="false" />
+                <line number="89" hits="0" branch="false" />
+                <line number="90" hits="0" branch="false" />
+                <line number="91" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Listar" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="94" hits="0" branch="false" />
+                <line number="95" hits="0" branch="false" />
+                <line number="97" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="98" hits="0" branch="false" />
+                <line number="100" hits="0" branch="false" />
+                <line number="101" hits="0" branch="false" />
+                <line number="102" hits="0" branch="false" />
+                <line number="103" hits="0" branch="false" />
+                <line number="104" hits="0" branch="false" />
+                <line number="105" hits="0" branch="false" />
+                <line number="106" hits="0" branch="false" />
+                <line number="107" hits="0" branch="false" />
+                <line number="109" hits="0" branch="false" />
+                <line number="110" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Obter" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="113" hits="0" branch="false" />
+                <line number="114" hits="0" branch="false" />
+                <line number="116" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="117" hits="0" branch="false" />
+                <line number="118" hits="0" branch="false" />
+                <line number="119" hits="0" branch="false" />
+                <line number="120" hits="0" branch="false" />
+                <line number="123" hits="0" branch="false" />
+                <line number="124" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="30" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="31" hits="0" branch="false" />
+            <line number="33" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="34" hits="0" branch="false" />
+            <line number="36" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="37" hits="0" branch="false" />
+            <line number="39" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="40" hits="0" branch="false" />
+            <line number="42" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="43" hits="0" branch="false" />
+            <line number="45" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="46" hits="0" branch="false" />
+            <line number="48" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="63" hits="0" branch="false" />
+            <line number="64" hits="0" branch="false" />
+            <line number="66" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="67" hits="0" branch="false" />
+            <line number="69" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="70" hits="0" branch="false" />
+            <line number="72" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="73" hits="0" branch="false" />
+            <line number="75" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="76" hits="0" branch="false" />
+            <line number="78" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="79" hits="0" branch="false" />
+            <line number="81" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="82" hits="0" branch="false" />
+            <line number="83" hits="0" branch="false" />
+            <line number="84" hits="0" branch="false" />
+            <line number="85" hits="0" branch="false" />
+            <line number="86" hits="0" branch="false" />
+            <line number="87" hits="0" branch="false" />
+            <line number="89" hits="0" branch="false" />
+            <line number="90" hits="0" branch="false" />
+            <line number="91" hits="0" branch="false" />
+            <line number="94" hits="0" branch="false" />
+            <line number="95" hits="0" branch="false" />
+            <line number="97" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="98" hits="0" branch="false" />
+            <line number="100" hits="0" branch="false" />
+            <line number="101" hits="0" branch="false" />
+            <line number="102" hits="0" branch="false" />
+            <line number="103" hits="0" branch="false" />
+            <line number="104" hits="0" branch="false" />
+            <line number="105" hits="0" branch="false" />
+            <line number="106" hits="0" branch="false" />
+            <line number="107" hits="0" branch="false" />
+            <line number="109" hits="0" branch="false" />
+            <line number="110" hits="0" branch="false" />
+            <line number="113" hits="0" branch="false" />
+            <line number="114" hits="0" branch="false" />
+            <line number="116" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="117" hits="0" branch="false" />
+            <line number="118" hits="0" branch="false" />
+            <line number="119" hits="0" branch="false" />
+            <line number="120" hits="0" branch="false" />
+            <line number="123" hits="0" branch="false" />
+            <line number="124" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Service.IBGEService" filename="C:\Users\User\source\repos\Erecruta\Service\IBGEService.cs" line-rate="0" branch-rate="1" complexity="5">
+          <methods>
+            <method name="ListarEstado" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ListarCidade" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ObterEstado" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ObterCidade" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Service.OportunidadeService" filename="C:\Users\User\source\repos\Erecruta\Service\OportunidadeService.cs" line-rate="0" branch-rate="0" complexity="37">
+          <methods>
+            <method name="Incluir" signature="(...)" line-rate="0" branch-rate="0" complexity="16">
+              <lines>
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="34" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="35" hits="0" branch="false" />
+                <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="38" hits="0" branch="false" />
+                <line number="40" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="41" hits="0" branch="false" />
+                <line number="43" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="44" hits="0" branch="false" />
+                <line number="46" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="47" hits="0" branch="false" />
+                <line number="49" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="50" hits="0" branch="false" />
+                <line number="52" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="53" hits="0" branch="false" />
+                <line number="56" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+                <line number="65" hits="0" branch="false" />
+                <line number="66" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="69" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Alterar" signature="(...)" line-rate="0" branch-rate="0" complexity="16">
+              <lines>
+                <line number="72" hits="0" branch="false" />
+                <line number="73" hits="0" branch="false" />
+                <line number="75" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="76" hits="0" branch="false" />
+                <line number="78" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="79" hits="0" branch="false" />
+                <line number="81" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="82" hits="0" branch="false" />
+                <line number="84" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="85" hits="0" branch="false" />
+                <line number="87" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="88" hits="0" branch="false" />
+                <line number="90" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="91" hits="0" branch="false" />
+                <line number="93" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="94" hits="0" branch="false" />
+                <line number="97" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="98" hits="0" branch="false" />
+                <line number="99" hits="0" branch="false" />
+                <line number="100" hits="0" branch="false" />
+                <line number="101" hits="0" branch="false" />
+                <line number="102" hits="0" branch="false" />
+                <line number="103" hits="0" branch="false" />
+                <line number="106" hits="0" branch="false" />
+                <line number="107" hits="0" branch="false" />
+                <line number="109" hits="0" branch="false" />
+                <line number="110" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Listar" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="113" hits="0" branch="false" />
+                <line number="114" hits="0" branch="false" />
+                <line number="116" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="117" hits="0" branch="false" />
+                <line number="119" hits="0" branch="false" />
+                <line number="120" hits="0" branch="false" />
+                <line number="121" hits="0" branch="false" />
+                <line number="122" hits="0" branch="false" />
+                <line number="123" hits="0" branch="false" />
+                <line number="124" hits="0" branch="false" />
+                <line number="125" hits="0" branch="false" />
+                <line number="127" hits="0" branch="false" />
+                <line number="128" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Obter" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="131" hits="0" branch="false" />
+                <line number="132" hits="0" branch="false" />
+                <line number="134" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="135" hits="0" branch="false" />
+                <line number="136" hits="0" branch="false" />
+                <line number="137" hits="0" branch="false" />
+                <line number="138" hits="0" branch="false" />
+                <line number="139" hits="0" branch="false" />
+                <line number="140" hits="0" branch="false" />
+                <line number="141" hits="0" branch="false" />
+                <line number="144" hits="0" branch="false" />
+                <line number="146" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="34" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="35" hits="0" branch="false" />
+            <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="38" hits="0" branch="false" />
+            <line number="40" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="41" hits="0" branch="false" />
+            <line number="43" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="44" hits="0" branch="false" />
+            <line number="46" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="47" hits="0" branch="false" />
+            <line number="49" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="50" hits="0" branch="false" />
+            <line number="52" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="53" hits="0" branch="false" />
+            <line number="56" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="65" hits="0" branch="false" />
+            <line number="66" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="69" hits="0" branch="false" />
+            <line number="72" hits="0" branch="false" />
+            <line number="73" hits="0" branch="false" />
+            <line number="75" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="76" hits="0" branch="false" />
+            <line number="78" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="79" hits="0" branch="false" />
+            <line number="81" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="82" hits="0" branch="false" />
+            <line number="84" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="85" hits="0" branch="false" />
+            <line number="87" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="88" hits="0" branch="false" />
+            <line number="90" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="91" hits="0" branch="false" />
+            <line number="93" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="94" hits="0" branch="false" />
+            <line number="97" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="98" hits="0" branch="false" />
+            <line number="99" hits="0" branch="false" />
+            <line number="100" hits="0" branch="false" />
+            <line number="101" hits="0" branch="false" />
+            <line number="102" hits="0" branch="false" />
+            <line number="103" hits="0" branch="false" />
+            <line number="106" hits="0" branch="false" />
+            <line number="107" hits="0" branch="false" />
+            <line number="109" hits="0" branch="false" />
+            <line number="110" hits="0" branch="false" />
+            <line number="113" hits="0" branch="false" />
+            <line number="114" hits="0" branch="false" />
+            <line number="116" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="117" hits="0" branch="false" />
+            <line number="119" hits="0" branch="false" />
+            <line number="120" hits="0" branch="false" />
+            <line number="121" hits="0" branch="false" />
+            <line number="122" hits="0" branch="false" />
+            <line number="123" hits="0" branch="false" />
+            <line number="124" hits="0" branch="false" />
+            <line number="125" hits="0" branch="false" />
+            <line number="127" hits="0" branch="false" />
+            <line number="128" hits="0" branch="false" />
+            <line number="131" hits="0" branch="false" />
+            <line number="132" hits="0" branch="false" />
+            <line number="134" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="135" hits="0" branch="false" />
+            <line number="136" hits="0" branch="false" />
+            <line number="137" hits="0" branch="false" />
+            <line number="138" hits="0" branch="false" />
+            <line number="139" hits="0" branch="false" />
+            <line number="140" hits="0" branch="false" />
+            <line number="141" hits="0" branch="false" />
+            <line number="144" hits="0" branch="false" />
+            <line number="146" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.Startup" filename="C:\Users\User\source\repos\Erecruta\Startup.cs" line-rate="0" branch-rate="0" complexity="5">
+          <methods>
+            <method name="get_Configuration" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ConfigureServices" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Configure" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+                <line number="51" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="51" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="Erecruta.IntegratedTest" line-rate="0.8787878787878788" branch-rate="0.7" complexity="17">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\User\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Erecruta.IntegratedTest.Steps.OportunidadeStep" filename="C:\Users\User\source\repos\Erecruta.IntegratedTest\Steps\OportunidadeStep.cs" line-rate="0.90625" branch-rate="0.7" complexity="16">
+          <methods>
+            <method name="Setup" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="26" hits="3" branch="false" />
+                <line number="27" hits="3" branch="false" />
+                <line number="28" hits="3" branch="false" />
+                <line number="29" hits="3" branch="false" />
+                <line number="30" hits="3" branch="false" />
+                <line number="31" hits="3" branch="false" />
+                <line number="32" hits="3" branch="false" />
+                <line number="33" hits="6" branch="false" />
+                <line number="34" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="DadoQueAUrlDoEndPointEh" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="37" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="DadoQueOMetodoHttpEh" signature="(...)" line-rate="0.7" branch-rate="0.625" complexity="8">
+              <lines>
+                <line number="41" hits="3" branch="false" />
+                <line number="42" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="43" hits="3" branch="false" />
+                <line number="45" hits="3" branch="true" condition-coverage="50% (1/2)" />
+                <line number="46" hits="0" branch="false" />
+                <line number="48" hits="3" branch="true" condition-coverage="50% (1/2)" />
+                <line number="49" hits="0" branch="false" />
+                <line number="51" hits="3" branch="true" condition-coverage="50% (1/2)" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="DadoQueOIdDaOportunidadeEh" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="57" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="QuandoObterAOportunidade" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="62" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="EntaoARespostaSera" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="66" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="Client" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="70" hits="3" branch="false" />
+                <line number="71" hits="3" branch="false" />
+                <line number="73" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="74" hits="2" branch="false" />
+                <line number="76" hits="3" branch="false" />
+                <line number="77" hits="3" branch="false" />
+                <line number="78" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="3" branch="false" />
+                <line number="22" hits="6" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="3" branch="false" />
+            <line number="22" hits="6" branch="false" />
+            <line number="26" hits="3" branch="false" />
+            <line number="27" hits="3" branch="false" />
+            <line number="28" hits="3" branch="false" />
+            <line number="29" hits="3" branch="false" />
+            <line number="30" hits="3" branch="false" />
+            <line number="31" hits="3" branch="false" />
+            <line number="32" hits="3" branch="false" />
+            <line number="33" hits="6" branch="false" />
+            <line number="34" hits="3" branch="false" />
+            <line number="37" hits="3" branch="false" />
+            <line number="41" hits="3" branch="false" />
+            <line number="42" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="43" hits="3" branch="false" />
+            <line number="45" hits="3" branch="true" condition-coverage="50% (1/2)" />
+            <line number="46" hits="0" branch="false" />
+            <line number="48" hits="3" branch="true" condition-coverage="50% (1/2)" />
+            <line number="49" hits="0" branch="false" />
+            <line number="51" hits="3" branch="true" condition-coverage="50% (1/2)" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="3" branch="false" />
+            <line number="57" hits="2" branch="false" />
+            <line number="62" hits="3" branch="false" />
+            <line number="66" hits="3" branch="false" />
+            <line number="70" hits="3" branch="false" />
+            <line number="71" hits="3" branch="false" />
+            <line number="73" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="74" hits="2" branch="false" />
+            <line number="76" hits="3" branch="false" />
+            <line number="77" hits="3" branch="false" />
+            <line number="78" hits="3" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
